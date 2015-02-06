@@ -1,0 +1,7 @@
+C:\Users\trmehta\Documents\Feedback3\app\build\intermediates\classes\debug
+C:\Users\trmehta\Documents\Feedback3\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-160bb0a94ab14d52d126cff8ebe96d4818da9826.jar
+C:\Users\trmehta\Documents\Feedback3\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-4fdfffc94941c6892372200ab53f3ed9d597e6c3.jar
+C:\Users\trmehta\Documents\Feedback3\app\build\intermediates\pre-dexed\debug\gson-2.2.4-d8fbcc5e009580edcd49c463fe165553ea86e37c.jar
+C:\Users\trmehta\Documents\Feedback3\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-60cab9da0c9f26b8f70287b94b83dea0dbb28730.jar
+C:\Users\trmehta\Documents\Feedback3\app\build\intermediates\pre-dexed\debug\classes-e787be7a3c9a214b9d03de7e8f345a7f42242cf5.jar
+C:\Users\trmehta\Documents\Feedback3\app\build\intermediates\pre-dexed\debug\classes-6bd5b8e6037b9cb9232855a191f77068f055aa52.jar

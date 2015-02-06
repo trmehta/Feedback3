@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" >
+    <string name="app_name">Feedback</string>
+    <string name="feedback">Feedback</string>
+    <string name="action_settings">Settings</string>
+    <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="email">Email ID</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    
+    
+    <string-array name="category_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="edit_screenshot">Edit Screenshot</string>
+    <string name="submit">Submit</string>
+    <string name="hello_world">hello world!!</string>
+    <string name="feedback_saved">Feedback submitted!</string>
+    <string name="back">Back to App</string>
+
+</resources>
